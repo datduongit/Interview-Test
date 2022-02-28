@@ -1,0 +1,1 @@
+{"product":{"url_path":"assets/images/img_bg.jpg","name":"No 1","description":"Trung Nguyen cofffe","price":10,"extra":{"min":0,"max":1},"items":[{"title":"option1","sub_price":0,"is_check":true},{"title":"option2","sub_price":0,"is_check":false},{"title":"option3","sub_price":5,"is_check":false}]}}
